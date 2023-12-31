@@ -10,7 +10,7 @@ I am a versatile professional that easily adapt to different hats (Full Stack We
 - 🔭 &nbsp; I’m currently working on **A Cloud Banking Solution**
 <!-- - 🤝 &nbsp; I’m looking to collaborate on  -->
 - 🌱 &nbsp; I’m currently learning **Machine Learning**; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/otienogeoffrey812?tab=repositories)
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/otienogeoffrey812?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/geoffrey-otieno-a507291b4/)
 
