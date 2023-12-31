@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Geoffrey Otieno
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱or beginner ML Engineer 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatile professional that easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱or beginner ML Engineer 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -36,7 +36,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
+<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/otienogeoffrey812/github-stats-transparent'>
