@@ -35,7 +35,7 @@ I am a passionate Software Engineer who easily adapts to different hats. I love 
 
 <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/docker.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/lunix.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/linux.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
 <br>
