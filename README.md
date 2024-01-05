@@ -1,18 +1,16 @@
 ## Hi there 👋, I'm Geoffrey Otieno
 
-I am a versatile professional that easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱or beginner ML Engineer 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a passionate Software Engineer who easily adapts to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
-<br/>
-
+<!-- I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
+<!-- <br/> -->
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **A Cloud Banking Solution**
-<!-- - 🤝 &nbsp; I’m looking to collaborate on  -->
-- 🌱 &nbsp; I’m currently learning **Machine Learning**; 
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/otienogeoffrey812?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/geoffrey-otieno-a507291b4/)
+- 💼 &nbsp; any freelance work? do reach, [email](mailto:otienogeoffrey812@gmail.com) :)
 
 <br>
 
@@ -34,6 +32,10 @@ I am a versatile professional that easily adapt to different hats (Full Stack We
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/firebase.svg" alt="firebase" height ="42px"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/docker.svg" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/lunix.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
 <br>
