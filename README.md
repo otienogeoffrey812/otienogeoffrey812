@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Geoffrey Otieno
 
 I am a passionate Software Engineer who easily adapts to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
 <!-- I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 <!-- <br/> -->
   
@@ -40,12 +39,11 @@ I am a passionate Software Engineer who easily adapts to different hats. I love 
 <br>
 <br>
 
-### 📊 Github Stats
+<!-- ### 📊 Github Stats
 <a href='https://github.com/otienogeoffrey812/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/otienogeoffrey812/github-stats-transparent/output/generated/overview.svg)
+![Stats Overview](https://raw.githubusercontent.com/otienogeoffrey812/github-stats-transparent/output/generated/overview.svg) -->
 <!-- ![Most Used Languages](https://raw.githubusercontent.com/otienogeoffrey812/github-stats-transparent/output/generated/languages.svg) -->
-
 </a>
 
 <br>
