@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Geoffrey Otieno
 
-I am a software engineer with a passion for building highly scalable and performant software solutions. 
+I am a software engineer with a passion for building highly scalable and performant software solutions.
+<!-- I am a passionate Software Engineer who easily adapts to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.   -->
 <!-- I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 <!-- <br/> -->
   
