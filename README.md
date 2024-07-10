@@ -37,6 +37,8 @@ I am a software engineer with a passion for building highly scalable and perform
 
 <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/linux.svg" align="left" alt="git" height='42px'/> </a>
 
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://github.com/otienogeoffrey812/otienogeoffrey812/blob/master/language_and_tools_icons/mongo.svg" align="left" alt="git" height='42px'/> </a>
+
 <br>
 <br>
 
