@@ -9,8 +9,7 @@ I am a software engineer with a passion for building highly scalable and perform
 
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/otienogeoffrey812?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/geoffrey-otieno-a507291b4/)
-<!-- - 💼 &nbsp; any freelance work? do reach, [email](mailto:otienogeoffrey812@gmail.com) :) -->
+- 💼 &nbsp; any freelance work? do reach, [email](mailto:otienogeoffrey812@gmail.com) :)
 
 <br>
 
